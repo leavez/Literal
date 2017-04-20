@@ -22,6 +22,7 @@ DerivedData
 Example/Pods/
 Example/Podfile.lock
 *.xcworkspace
+.build/
 
 # Bundler
 .bundle
