@@ -1,5 +1,7 @@
 # Literal
 
+[![Swift](https://img.shields.io/badge/swift-4.1-orange.svg?style=flat)](#)
+
 Literal is a swift libiary to provide convenient initializers for CGPoint, CGRect, NSRange and etc.. 
 
 ```swift
